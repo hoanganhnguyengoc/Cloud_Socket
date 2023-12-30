@@ -20,7 +20,7 @@ Step 1: Connect 2 computers to the same wifi.
 
 Step 2: Run server and get IP address and PORT (on terminal run code)
 
-![image]("C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Ảnh\Ảnh chụp màn hình\Screenshot 2023-12-30 235700.png")
+![image](https://github.com/hoanganhnguyengoc/image/blob/main/Screenshot%202023-12-30%20235700.png)
 
 Step 3: Run client and enter the IP address enter the ip address and port you just found in step 2 in the Server IP and Server PORT box
 
